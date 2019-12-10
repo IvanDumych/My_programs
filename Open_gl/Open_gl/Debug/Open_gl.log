@@ -1,0 +1,22 @@
+﻿  Application.cpp
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(107,16): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(107,1): warning C4305:  '+=': truncation from 'double' to 'float'
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(108,33): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(163,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(174,19): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(175,19): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(177,19): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(178,19): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(183,21): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(184,21): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(187,21): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(188,21): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(195,22): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(196,27): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(196,19): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(197,19): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(206,22): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(207,27): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(207,19): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ivan6\source\repos\Open_gl\Open_gl\src\Application.cpp(208,19): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Open_gl.vcxproj -> C:\Users\ivan6\source\repos\Open_gl\Debug\Open_gl.exe
